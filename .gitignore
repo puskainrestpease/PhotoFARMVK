@@ -1,0 +1,6 @@
+libphoto/token.xml
+libphoto/album.xml
+__pycache__/
+*.py[cod]
+.venv/
+venv/
